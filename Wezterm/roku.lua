@@ -1,13 +1,13 @@
 local colorscheme = {
-	foreground = '#d3ccc0',
+	foreground = '#e7c9b3',
 	background = '#161919',
 
-	cursor_bg = '#d3ccc0',
+	cursor_bg = '#e7c9b3',
 	cursor_fg = '#161919',
-	cursor_border = '#d3ccc0',
+	cursor_border = '#e7c9b3',
 
 	selection_fg = '#262c2e',
-	selection_bg = '#f0e9df',
+	selection_bg = '#f0f1f1',
 
 	ansi = {
 		'#161919',
@@ -17,7 +17,7 @@ local colorscheme = {
 		'#5f819d',
 		'#85678f',
 		'#60a5a5',
-		'#d3ccc0',
+		'#e7c9b3',
 	},
 	brights = {
 		'#324352',
@@ -27,7 +27,7 @@ local colorscheme = {
 		'#81b0d6',
 		'#c58fd6',
 		'#85d3d3',
-		'#f0e9df',
+		'#f0f1f1',
 	},
 }
 
