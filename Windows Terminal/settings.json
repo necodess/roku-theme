@@ -1,0 +1,25 @@
+"schemes": [
+	{
+		"background": "#161919",
+		"black": "#161919",
+		"blue": "#5F819D",
+		"brightBlack": "#324352",
+		"brightBlue": "#81B0D6",
+		"brightCyan": "#85D3D3",
+		"brightGreen": "#5BAC7D",
+		"brightPurple": "#C58FD6",
+		"brightRed": "#E27168",
+		"brightWhite": "#F0E9DF",
+		"brightYellow": "#CDAA77",
+		"cursorColor": "#D3CCC0",
+		"cyan": "#60A5A5",
+		"foreground": "#D3CCC0",
+		"green": "#237B53",
+		"name": "roku",
+		"purple": "#85678F",
+		"red": "#C95046",
+		"selectionBackground": "#D3CCC0",
+		"white": "#D3CCC0",
+		"yellow": "#D9A36C"
+	},
+]
